@@ -1,3 +1,5 @@
+// Basic concept of pointers explained
+// Source : http://www.tutorialspoint.com/cprogramming/c_pointers.htm
 #include <stdio.h>
 
 int main () {
