@@ -1,3 +1,4 @@
+// Prints 'The Twelve Days of Christmas' song in terminal
  #include <stdio.h>
  main(t,_,a)
  char *a;
