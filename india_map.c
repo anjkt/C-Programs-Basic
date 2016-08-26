@@ -1,3 +1,5 @@
+// This program prints Map of India in terminal, 
+// For more info : http://stackoverflow.com/questions/3533348/how-does-this-code-generate-the-map-of-india
 #include <stdio.h>
 main()
 {
